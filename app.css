@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+.walk {
+    text-align: center;
+}
+
+.big_car{
+    padding-right: 200px;
+    padding-top: 100px;
+}
+.clock {
+    padding-bottom: 12px;
+    padding-left: 30px;
+    margin: 0;
+    
+}
+
+
+.info {
+    margin: 0;
+}
+
+.top-lane {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.bottom-lane {
+    margin-left: 30px;
+    margin-top: 0px;
+}
+div {
+    float: left;
+    position: relative;
+    padding-bottom: 30%;       
+}
+
+.album {
+    align-items: center; 
+    float: left;  
+    margin-left: 400px;
+}
+
+.image {
+    float: left;
+    padding: 5px;
+}
